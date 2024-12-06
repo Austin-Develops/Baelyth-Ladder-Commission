@@ -1,0 +1,10 @@
+Point decay time (days) [Number of inactive days required before a player loses inactivity points]:
+- 28
+Guild ID
+- 829563027506069515
+Match Category ID
+- 1311915419191480420
+Master Role ID
+- 965899080553336852
+Mod Role ID
+- 829563695125626912
